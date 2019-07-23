@@ -11,7 +11,10 @@ My research interests revolve around the hepatic-brain axis specifically in 'spe
 Through out my graduate and post doc work I have been honored as an endowed fellow in Nutrition at the University of Texas at Austin and an [Ethan Sims Young Investigator Award Finalist](https://2017.obesityweek.com/session/ethan-sims-award-session/) through the Obesity Society. 
 
 ### Current Research Projects and Interests:
-* Puberty as model of transient insulin resistance
+
+I am a proud proponent of open science practices. Below I have outlined some of my research interests and I highly encourage readers to go to my OSF page for preregistrations.
+
+* Puberty as model of transient insulin resistance to assess changes in reward learning 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDc2MDYwODUsLTc3NjUzMjE1M119
+eyJoaXN0b3J5IjpbLTEzODY0MzA5NywtNzc2NTMyMTUzXX0=
 -->

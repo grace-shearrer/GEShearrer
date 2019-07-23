@@ -4,9 +4,9 @@
 
 Email: grace.shearrer@gmail.com
 
-I am a Research Assistant Professor at the University of North Carolina at Chapel Hill working with Dr. Kyle Burger in the Neuropsychology of Ingestive Behavior Laboratory [NIBL](https://niblunc.org/) within the [Department of Nutrition](https://sph.unc.edu/nutr/unc-nutrition/).  She is currently developing her own program of research and is actively designing her own research group. 
+I am a Research Assistant Professor at the University of North Carolina at Chapel Hill working with Dr. Kyle Burger in the Neuropsychology of Ingestive Behavior Laboratory [NIBL](https://niblunc.org/) within the [Department of Nutrition](https://sph.unc.edu/nutr/unc-nutrition/).  I am currently developing my program of research and  actively designing my research group. 
 
-Grace's research interests revolve around the hepatic-brain axis specifically in 'special' insulin resistant populations (pregnant women, adolescents, Parkinson's). She completed her PhD in Nutritional Science at the University of Texas at Austin under the mentorship of Dr. Jaimie Davis. 
+My research interests revolve around the hepatic-brain axis specifically in 'special' insulin resistant populations (pregnant women, adolescents, Parkinson's). I completed my PhD in Nutritional Science at the University of Texas at Austin under the mentorship of Dr. Jaimie Davis in 2016. My graduate work focused on sugar sweetened beverage intake in adolescents.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NTc3MzIzOSwtNzc2NTMyMTUzXX0=
+eyJoaXN0b3J5IjpbLTE1MDU1NDcwMTMsLTc3NjUzMjE1M119
 -->

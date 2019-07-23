@@ -12,9 +12,11 @@ Through out my graduate and post doc work I have been honored as an endowed fell
 
 ### Current Research Projects and Interests:
 
-I am a proud proponent of open science practices. Below I have outlined some of my research interests and I highly encourage readers to go to my OSF page for preregistrations.
 
-* Puberty as model of transient insulin resistance to assess changes in reward learning 
+
+* Puberty as model of transient insulin resistance to assess dopamine  reward learning 
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODY0MzA5NywtNzc2NTMyMTUzXX0=
+eyJoaXN0b3J5IjpbLTMyMjc3OTg1NiwtMTM4NjQzMDk3LC03Nz
+Y1MzIxNTNdfQ==
 -->

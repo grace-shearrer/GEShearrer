@@ -4,6 +4,7 @@
 
 Email: grace.shearrer@gmail.com
 
+Grace is Research Assistant Professor at the University of North Carolina at Chapel Hill working with Dr. Kyle Burger in the Neuropsychology of Ingestive Behavi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTk5MzA3MjldfQ==
+eyJoaXN0b3J5IjpbMTg2NjQ2NTAyNF19
 -->

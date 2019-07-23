@@ -16,8 +16,8 @@ Through out my graduate and post doc work I have been honored as an endowed fell
 
 * Puberty as model of transient insulin resistance to assess the importance of insulin on dopamine reward learning 
 * Assessing the usefulness of topological measures to describe changes in functional neural organization
-* 
+* Development of eating behaviors in toddlers (2-5y)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NzUwNTEzOSwtMTM4NjQzMDk3LC03Nz
-Y1MzIxNTNdfQ==
+eyJoaXN0b3J5IjpbMTE3NTAyNTYsMTE3NzUwNTEzOSwtMTM4Nj
+QzMDk3LC03NzY1MzIxNTNdfQ==
 -->

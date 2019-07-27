@@ -21,8 +21,10 @@ a.	Shearrer GE, Sadler JR, Burger KS. Alterations in ventral attention network c
 b.	Shearrer, GE, KS Burger. A Comparison of Neural Connectivity between Obese, Overweight, and Normal Weight Adults. [Preregistration] OSF. 2017 February. doi:10.17605/OSF.IO/6U2J8.
 c.	Shearrer GE, Sadler JR, Burger KS. T-OR-2038 | Later Puberty Predicts Visual/Self-control Functional Brain Connectivity and Low BMI in Adulthood. The Obesity Society Meeting. Nashville, TN. 2018 November. https://2018.obesityweek.com/abstract/later-puberty-predicts-visual-self-control-functional-brain-connectivity-and-low-bmi-in-adulthood/
 d.	Sadler JR, Shearrer GE, Burger KS. Body mass variability is represented by distinct functional connectivity patterns. Neuroimage. 2018 Nov. 181p. 55-63. PubMed PMID: 29966718.
-Complete List of Published Work in My Bibliography: https://www.ncbi.nlm.nih.gov/pubmed/?term=ShearrerGE%5BAuthor%5D&cauthor=true&cauthor_uid=29966718
+
+## Complete List of Published Work in My [Bibliography](https://www.ncbi.nlm.nih.gov/pubmed/?term=ShearrerGE%5BAuthor%5D&cauthor=true&cauthor_uid=29966718)
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MzA4NzMyNSwtNTI0Nzk4MjVdfQ==
+eyJoaXN0b3J5IjpbLTExNTQ4NTE1OTAsLTUyNDc5ODI1XX0=
 -->

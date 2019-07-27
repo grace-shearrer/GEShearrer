@@ -300,7 +300,8 @@ DEPENDENCIES
   jekyll-feed (~> 0.6)
   jekyll-redirect-from
   jekyll-scholar
+  rouge
   tzinfo-data
 
 BUNDLED WITH
-   2.0.1
+   2.0.2

@@ -40,17 +40,17 @@
 - divider: true
 
 # Add a header and sample content section
-- header: Demo textbook
+- header: Details
 
 # A chapter w/ a collection of sections beneath it
-- title: Features and customization
-  url: /features/features
+- title: Research
+  url: /content/Research
   not_numbered: true
   expand_sections: true
   sections:
-  - title: Markdown files
-    url: /features/markdown
+  - title: Current
+    url: /features/research
     not_numbered: true
   - title: Jupyter notebooks
-    url: /features/notebooks
+    url: /features/ABCD_graph_analysis_working
     not_numbered: true

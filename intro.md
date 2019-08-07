@@ -1,6 +1,10 @@
 # Grace E Shearrer, PhD
 Welcome! This is a personal website for Grace Shearrer (me). 
 
+[GoogleScholar Profile](https://scholar.google.com/citations?user=34Ges_MAAAAJ&hl=en)
+
+Email: grace.shearrer@gmail.com
+
 ## Who?
 As mentioned above my name is Grace Shearrer. I am a research assistant professor at the University of North Carolina Chapel Hill. 
 
@@ -14,7 +18,7 @@ A research assistant professor. Essentially a professor that doesn't teach a lot
 * I was born and raised in Denver, Colorado 
 
 ## When?
-I have been a research assistant professor for a little under a year. Before that I worked as a post doc for 3 years with Dr. Kyle Burger in NIBL lab. Before that I completed my PhD with Dr. Jaimie Davis in 2016, and finished my BSFC in 2012. 
+I have been a research assistant professor for a little under a year. Before that I worked as a post doc for 3 years with Dr. Kyle Burger in  the Neuropsychology of Ingestive Behavior Laboratory [NIBL](https://niblunc.org/) . Before that I completed my PhD with Dr. Jaimie Davis in 2016, and finished my BSFC in 2012. 
 
 My goal is to obtain tenure before 40. I have known I wanted to be tenure track professor since 2010. While at the University of Wyoming, I was working as an O Chem TA under Drs. Robert Corcoran and Bill Hoberg and completing undergrad research with Dr. Donal Skinner. At the time I was a pre-med student, however my experiences teaching O Chem and doing research made me realize my true passion was teaching and research! After that I turned my attention to doctoral programs rather than medical school. 
 
@@ -36,5 +40,5 @@ This is pretty straight forward. Right now most positions in STEM are held by pe
 * Open to all ability levels
 * Open regardless of Socio-Economic-Status
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MDYwNjAzNl19
+eyJoaXN0b3J5IjpbLTc4ODc2MzMxOSwtNTQwNjA2MDM2XX0=
 -->

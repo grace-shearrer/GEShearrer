@@ -16,9 +16,9 @@ A research assistant professor. Essentially a professor that doesn't teach a lot
 ## When?
 I have been a research assistant professor for a little under a year. Before that I worked as a post doc for 3 years with Dr. Kyle Burger in NIBL lab. Before that I completed my PhD with Dr. Jaimie Davis in 2016, and finished my BSFC in 2012. 
 
-My goal is to obtain tenure before 40. I have known I wanted to be tenure track professor since 2010. While at the University of Wyoming, I was working as an O Chem TA 
+My goal is to obtain tenure before 40. I have known I wanted to be tenure track professor since 2010. While at the University of Wyoming, I was working as an O Chem TA under Dr. Robert Corcoran and doing undergrad research with Dr. Donal Skinner. 
 
 ## Why?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc5NzgxMzE0LDEzMDU2NzkyMjJdfQ==
+eyJoaXN0b3J5IjpbMjc1Mzk3NzcyLDEzMDU2NzkyMjJdfQ==
 -->

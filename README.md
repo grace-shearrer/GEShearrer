@@ -27,10 +27,10 @@ As stated above, my extracurriculars in my undergraduate studies really focused 
 ### Curiosity
 When I was in high school, I thought I was going to be a journalist. To teen Grace, journalism gave my natural curiosity an outlet in the world didactic learning in high school. In doing undergraduate research, I realized I could directly test my curiosity rather than just report on it. To this day, the desire to learn and understand the world around and in me motivates my research.
 ### Problem Solving
-During my graduate work, a professor handed me a Python script for my dissertation work. Up to this point I was under the impression that this had something to do with snakes. I was terrified to learn that it wasn't a theatrical production for a snake based musical, but rather a computer program I was supposed to edit and make work. Little did I know that this would actually become an integral part of my research. Scri
+During my graduate work, a professor handed me a Python script for my dissertation work. Up to this point I was under the impression that this had something to do with snakes. I was terrified to learn that it wasn't a theatrical production for a snake based musical, but rather a computer program I was supposed to edit and make work. Little did I know that this would actually become an integral part of my research. Programming analyses, paradigms, websites, etc, presented me with a puzzle. After enough research, learning, and asking questions I was able to solve my graduate dissertation script. Today, I believe firm knowledge in basic computer programming is essential for scientists and a 
 ### Teamwork
 ### Representation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjMyMzY4MjUsLTgwMTIzMDkzMSwxMz
-A1Njc5MjIyXX0=
+eyJoaXN0b3J5IjpbLTI4OTI1MjEwNiwtODAxMjMwOTMxLDEzMD
+U2NzkyMjJdfQ==
 -->

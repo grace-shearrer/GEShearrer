@@ -32,8 +32,10 @@ During my graduate work, a professor handed me a Python script for my dissertati
 I have played soccer longer than I have been able to read. So, understandably, teamwork has been a big part of my life. Science is a lot like soccer. You can't have a team of goal scorers or a team of goalies. The best teams have deep rosters and everyone working towards a common goal. Science is similar. Laboratories need a variety of people working towards a similar goal. 
 ### Representation
 This is pretty straight forward. Right now most positions in STEM are held by people of a very similar background. However, as stated above, the best teams/labs have a variety of skills and these skills are developed through different experiences. An unyielding goal of lab is to be and perform Open Science. This means not only open methods, open, open data, and preregistration, but also:
-* 
+* Open to all people
+* Open to all ability levels
+* Open regardless of Socio-Economic-Status
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTU0MDM1MjEsLTgwMTIzMDkzMSwxMz
-A1Njc5MjIyXX0=
+eyJoaXN0b3J5IjpbLTU0MDYwNjAzNiwtMjAxNTQwMzUyMSwtOD
+AxMjMwOTMxLDEzMDU2NzkyMjJdfQ==
 -->

@@ -25,11 +25,12 @@ As stated above, my extracurriculars in my undergraduate studies really focused 
 * Need to Work in a Team
 * Increase Representation 
 ### Curiosity
-When I was in high school, I thought I was going to be a journalist. To teen Grace, journalism gave my natural curiosity an outlet in the world didactic learning in high school. In doing undergraduate research, I realized I could directly test my curiosity rather than just report on it. To this day I am driven 
+When I was in high school, I thought I was going to be a journalist. To teen Grace, journalism gave my natural curiosity an outlet in the world didactic learning in high school. In doing undergraduate research, I realized I could directly test my curiosity rather than just report on it. To this day, the desire to learn and understand the world around and in me motivates my research.
 ### Problem Solving
+D
 ### Teamwork
 ### Representation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMTcyNzU1NywtODAxMjMwOTMxLDEzMD
-U2NzkyMjJdfQ==
+eyJoaXN0b3J5IjpbLTE5NTc5Nzc1MjQsLTgwMTIzMDkzMSwxMz
+A1Njc5MjIyXX0=
 -->

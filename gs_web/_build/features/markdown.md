@@ -2,7 +2,7 @@
 title: 'Markdown files'
 prev_page:
   url: /features/features.html
-  title: 'Research history'
+  title: 'Research historyFeatures and customization'
 next_page:
   url: /features/notebooks.html
   title: 'Jupyter notebooks'
@@ -52,3 +52,6 @@ You can even embed references to movies on the web! For example, here's a little
 ![](https://media.giphy.com/media/yoJC2A59OCZHs1LXvW/giphy.gif)
 
 This will be included in your website when it is built.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE4NDQ3NjU3MTJdfQ==
+-->

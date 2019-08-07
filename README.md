@@ -21,6 +21,11 @@ My goal is to obtain tenure before 40. I have known I wanted to be tenure track 
 ## Why?
 As stated above, my extracurriculars in my undergraduate studies really focused my attention on becoming a professor out of a love of both teaching and research. As I have developed as a scientist I realize that there are a lot of reasons why I am a scientist, and why I want to be a tenure track professor. 
 * Curiosity
+* Problem solving
+* Teamwork
+* Representation 
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMTIzMDkzMSwxMzA1Njc5MjIyXX0=
+eyJoaXN0b3J5IjpbMTU5Njg2NDQxOSwtODAxMjMwOTMxLDEzMD
+U2NzkyMjJdfQ==
 -->

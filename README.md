@@ -25,11 +25,11 @@ As stated above, my extracurriculars in my undergraduate studies really focused 
 * Need to Work in a Team
 * Increase Representation 
 ### Curiosity
-
+When I was in high school, I thought I was going to be a journalist. To teen Grace, journalism gave my natural curiosity an outlet in a world of didatic  
 ### Problem Solving
 ### Teamwork
 ### Representation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxOTYyNTM4NywtODAxMjMwOTMxLDEzMD
+eyJoaXN0b3J5IjpbLTIyNTA0ODkwNSwtODAxMjMwOTMxLDEzMD
 U2NzkyMjJdfQ==
 -->

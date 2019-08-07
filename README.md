@@ -31,7 +31,8 @@ During my graduate work, a professor handed me a Python script for my dissertati
 ### Teamwork
 I have played soccer longer than I have been able to read. So, understandably, teamwork has been a big part of my life. Science is a lot like soccer. You can't have a team of goal scorers or a team of goalies. The best teams have deep rosters and everyone working towards a common goal. Science is similar. Laboratories need a variety of people working towards a similar goal. 
 ### Representation
+This is pretty straight forward. Right now most pos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5Njk2NDAzMCwtODAxMjMwOTMxLDEzMD
+eyJoaXN0b3J5IjpbLTMxMjkwNjcyNCwtODAxMjMwOTMxLDEzMD
 U2NzkyMjJdfQ==
 -->

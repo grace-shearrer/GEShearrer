@@ -36,6 +36,5 @@ This is pretty straight forward. Right now most positions in STEM are held by pe
 * Open to all ability levels
 * Open regardless of Socio-Economic-Status
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MDYwNjAzNiwtMjAxNTQwMzUyMSwtOD
-AxMjMwOTMxLDEzMDU2NzkyMjJdfQ==
+eyJoaXN0b3J5IjpbLTU0MDYwNjAzNl19
 -->

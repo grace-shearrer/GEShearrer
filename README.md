@@ -14,9 +14,11 @@ A research assistant professor. Essentially a professor that doesn't teach a lot
 * I was born and raised in Denver, Colorado 
 
 ## When?
-I have been a research assistant professor for a little under a year. Before that I worked as a post doc for 3 years with Dr. Kyle Burger in NIBL lab. Before that I completed my Ph
+I have been a research assistant professor for a little under a year. Before that I worked as a post doc for 3 years with Dr. Kyle Burger in NIBL lab. Before that I completed my PhD with Dr. Jaimie Davis in 2016, and finished my BSFC in 2012. 
+
+My goal is to obtain tenure before 40. I have known I wanted to be tenure track professor since 2010. While at the University of Wyoming, I was working as an O Chem TA 
 
 ## Why?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTU3MDc3ODUsMTMwNTY3OTIyMl19
+eyJoaXN0b3J5IjpbODc5NzgxMzE0LDEzMDU2NzkyMjJdfQ==
 -->

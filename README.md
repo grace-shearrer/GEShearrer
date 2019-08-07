@@ -19,13 +19,13 @@ I have been a research assistant professor for a little under a year. Before tha
 My goal is to obtain tenure before 40. I have known I wanted to be tenure track professor since 2010. While at the University of Wyoming, I was working as an O Chem TA under Drs. Robert Corcoran and Bill Hoberg and completing undergrad research with Dr. Donal Skinner. At the time I was a pre-med student, however my experiences teaching O Chem and doing research made me realize my true passion was teaching and research! After that I turned my attention to doctoral programs rather than medical school. 
 
 ## Why?
-As stated above, my extracurriculars in my undergraduate studies really focused my attention on becoming a professor out of a love of both teaching and research. As I have developed as a scientist I realize that there are a lot of reasons why I am a scientist, and why I want to be a tenure track professor. 
+As stated above, my extracurriculars in my undergraduate studies really focused my attention on becoming a professor out of a love of both teaching and research. As I have developed as a scientist I realize that there are a lot of reasons why I am a scientist, and why I want to be a tenure track professor:
 * Curiosity
 * Problem solving
 * Teamwork
 * Representation 
-* 
+* wa
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5Njg2NDQxOSwtODAxMjMwOTMxLDEzMD
-U2NzkyMjJdfQ==
+eyJoaXN0b3J5IjpbLTIxNDE0NDA2OTEsLTgwMTIzMDkzMSwxMz
+A1Njc5MjIyXX0=
 -->

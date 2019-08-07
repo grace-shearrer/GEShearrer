@@ -1,7 +1,7 @@
 ---
 title: 'Features and customization'
 prev_page:
-  url: https://github.com/grace-shearrerjupyter/jupyter-book
+  url: https://github.com/grace-shearrer
   title: 'GitHub repository'
 next_page:
   url: /features/markdown.html
@@ -25,6 +25,3 @@ simple functionality of this repository, while the following chapters contain a 
 
 This chapter shows a couple ways to add content to your course textbook. Click on the section headers
 to the left, or on the "next" button below in order to read further.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjM2MzI2MTBdfQ==
--->

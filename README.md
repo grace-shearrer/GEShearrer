@@ -29,8 +29,9 @@ When I was in high school, I thought I was going to be a journalist. To teen Gra
 ### Problem Solving
 During my graduate work, a professor handed me a Python script for my dissertation work. Up to this point I was under the impression that this had something to do with snakes. I was terrified to learn that it wasn't a theatrical production for a snake based musical, but rather a computer program I was supposed to edit and make work. Little did I know that this would actually become an integral part of my research. Programming analyses, paradigms, websites, etc, presented me with a puzzle. After enough research, learning, and asking questions I was able to solve my graduate dissertation script. Today, I believe firm knowledge in basic computer programming is essential for scientists and a great way to flex problem solving muscles.
 ### Teamwork
+I have played soccer longer than I have been able to read. So, understandably, teamwork has been a big part of my life. 
 ### Representation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTEzOTQ3NTUxLC04MDEyMzA5MzEsMTMwNT
-Y3OTIyMl19
+eyJoaXN0b3J5IjpbLTY1OTYxNzg1NywtODAxMjMwOTMxLDEzMD
+U2NzkyMjJdfQ==
 -->

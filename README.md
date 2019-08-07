@@ -29,9 +29,9 @@ When I was in high school, I thought I was going to be a journalist. To teen Gra
 ### Problem Solving
 During my graduate work, a professor handed me a Python script for my dissertation work. Up to this point I was under the impression that this had something to do with snakes. I was terrified to learn that it wasn't a theatrical production for a snake based musical, but rather a computer program I was supposed to edit and make work. Little did I know that this would actually become an integral part of my research. Programming analyses, paradigms, websites, etc, presented me with a puzzle. After enough research, learning, and asking questions I was able to solve my graduate dissertation script. Today, I believe firm knowledge in basic computer programming is essential for scientists and a great way to flex problem solving muscles.
 ### Teamwork
-I have played soccer longer than I have been able to read. So, understandably, teamwork has been a big part of my life. Science is a lot like soccer. You can't have a team of goal scorers or a team of goalies. The best teams have deep rosters and everyone working towards a common goal. Science is similar
+I have played soccer longer than I have been able to read. So, understandably, teamwork has been a big part of my life. Science is a lot like soccer. You can't have a team of goal scorers or a team of goalies. The best teams have deep rosters and everyone working towards a common goal. Science is similar. Laboratories need a variety of people working towards a similar goal. 
 ### Representation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI1MjY5NzUwLC04MDEyMzA5MzEsMTMwNT
-Y3OTIyMl19
+eyJoaXN0b3J5IjpbMTM5Njk2NDAzMCwtODAxMjMwOTMxLDEzMD
+U2NzkyMjJdfQ==
 -->

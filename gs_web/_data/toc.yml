@@ -49,8 +49,8 @@
   expand_sections: true
   sections:
   - title: Markdown files
-    url: /features/markdown
+    url: /features/research
     not_numbered: true
   - title: Jupyter notebooks
-    url: /features/notebooks
+    url: /features/ABCD_quick_stats
     not_numbered: true

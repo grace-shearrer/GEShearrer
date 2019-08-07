@@ -12,7 +12,7 @@ As mentioned above my name is Grace Shearrer. I am a research assistant professo
 A research assistant professor. Essentially a professor that doesn't teach a lot, but also isn't tenure track. This is a great place for me now, as I am able to apply for my own grants and work on lots of projects. However, my **overall goal is to transition to tenure track**. 
 
 ## Where?
-* Currently I work at the University of North Carolina Chapel Hill. Located in.... Chapel Hill, North Carolina.  
+* Currently I work in the [Department of Nutrition](https://sph.unc.edu/nutr/unc-nutrition/) at the University of North Carolina Chapel Hill. Located in.... Chapel Hill, North Carolina.  
 * Previously I got my PhD in Nutritional Science at the University of Texas at Austin
 *  Even further in the past, I got my BSFC (Bachelor of Family and Consumer Science) at the University of Wyoming in Laramie, WY.
 * I was born and raised in Denver, Colorado 
@@ -40,5 +40,5 @@ This is pretty straight forward. Right now most positions in STEM are held by pe
 * Open to all ability levels
 * Open regardless of Socio-Economic-Status
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4ODc2MzMxOSwtNTQwNjA2MDM2XX0=
+eyJoaXN0b3J5IjpbMTMyOTEzNTkwMiwtNTQwNjA2MDM2XX0=
 -->

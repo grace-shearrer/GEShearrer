@@ -1,16 +1,16 @@
 ---
-title: 'Research historyFeatures and customization'
+title: 'Service'
 prev_page:
-  url: https://github.com/grace-shearrerjupyter/jupyter-book
-  title: 'GitHub repository'
+  url: /features/ABCD_quick_stats.html
+  title: 'Pre-doctoral'
 next_page:
-  url: /features/researchmarkdown.html
-  title: 'Markdown files'
+  url: /features/research.html
+  title: 'Post Doctoral'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
 # Research
 
-My research covers a variety of topics ranging from Nutrition to Computer Science. The overall focus of my research is learning how the body and mind interact to produce behavior, specifically how the liver and brain interact to maintain homeostasis.
+My research covers a variety of topics ranging from Nutrition to Computer Science. The overall focus of my research is learning how the body and mind interact to produce behavior, specifically how the liver and brain interact to maintain homeostasis in populations at risk for insulin resistance.
 
 ## Sugar intake in adolescents
 A major theme of my work is the effect of sugar intake on metabolic, endocrine, and neural pathways in adolescents. Increased autonomy, rapid growth, and high availability of sugary foods highlight the adolescent period. With a combination of secondary data analysis from across the US, I have found that increased sugar intake is associated with increased visceral adiposity, higher cortisol awakening response, increased feelings of hunger, and decreased gut hormones ghrelin and PYY. In adolescents at high risk for weight gain by virtue of parental overweight or obese status, we found increased BOLD response in reward and gustatory regions compared to those at low risk to a high sugar beverage. Furthermore, those adolescents who were at high risk gained more weight at a 3 y follow up compared to the normal weight (see citation a above). In a slightly older group of college students, a high sugar meal (compared to fasted) was associated with increased connectivity between the oral somatosensory cortex and dorsolateral prefrontal cortex (dlPFC, drive/attention/motivation). Suggesting the brain increases communication between sensory regions and stimuli control regions with sugar intake. This may result in increased motivation to consume more sugar.  Overall, intake of sugar appears to promote further sugar intake and is related to unfavorable hormonal and metabolic profiles. Familial risk for obesity is associated with increased neural response to high sugar beverages associated and with increased weight gain, possibly putting the children of parents with high BMI at risk for overconsumption of sugar foods.  
@@ -50,5 +50,5 @@ d.	Sadler JR, Shearrer GE, Burger KS. Body mass variability is represented by di
 ## Complete List of Published Work in My [Bibliography](https://www.ncbi.nlm.nih.gov/pubmed/?term=Shearrer+GE+%5BAuthor%5D)hapter shows a couple ways to add content to your course textbook. Click on the section headers
 to the left, or on the "next" button below in order to read further.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NDEyMzQ1N119
+eyJoaXN0b3J5IjpbMTYzNzI1MjMyMV19
 -->

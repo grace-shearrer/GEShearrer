@@ -4,10 +4,10 @@ redirect_from:
 interact_link: content/features/ABCD_quick_stats.ipynb
 kernel_name: ir
 has_widgets: false
-title: 'Jupyter notebooks'
+title: 'Pre-doctoral'
 prev_page:
-  url: /features/research.html
-  title: 'Markdown files'
+  url: /features/ABCD_quick_stats.html
+  title: 'Doctoral'
 next_page:
   url: 
   title: ''

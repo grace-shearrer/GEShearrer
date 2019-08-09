@@ -1,11 +1,11 @@
 ---
-title: 'Markdown files'
+title: 'Post Doctoral'
 prev_page:
   url: /features/features.html
-  title: 'Research history'
+  title: 'Service'
 next_page:
   url: /features/ABCD_quick_stats.html
-  title: 'Jupyter notebooks'
+  title: 'Doctoral'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
 # Research

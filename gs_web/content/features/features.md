@@ -1,5 +1,7 @@
 # Research
 
+[NIH style biosketch](https://github.com/grace-shearrer/geshearrer/raw/master/gs_web/content/features/SHEARRER_BIOSKETCH.pdf)
+
 My research covers a variety of topics ranging from Nutrition to Computer Science. The overall focus of my research is learning how the body and mind interact to produce behavior, specifically how the liver and brain interact to maintain homeostasis in populations at risk for insulin resistance.
 
 ## Sugar intake in adolescents

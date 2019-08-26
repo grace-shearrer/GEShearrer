@@ -6,7 +6,7 @@ kernel_name: ir
 has_widgets: false
 title: 'Pre-doctoral'
 prev_page:
-  url: /features/ABCD_quick_stats.html
+  url: /features/ABCD_quick_stats
   title: 'Doctoral'
 next_page:
   url: 
@@ -146,7 +146,7 @@ p
 <div class="output_subarea" markdown="1">
 
 {:.output_png}
-![png](../images/features/ABCD_quick_stats_5_0.png)
+![png](/Users/gracer/Google%20Drive/geshearrer/gs_web/_build/images/features/ABCD_quick_stats_5_0.png)
 
 </div>
 </div>
@@ -207,7 +207,7 @@ plot(model1)
 <div class="output_subarea" markdown="1">
 
 {:.output_png}
-![png](../images/features/ABCD_quick_stats_7_0.png)
+![png](/Users/gracer/Google%20Drive/geshearrer/gs_web/_build/images/features/ABCD_quick_stats_7_0.png)
 
 </div>
 </div>
@@ -215,7 +215,7 @@ plot(model1)
 <div class="output_subarea" markdown="1">
 
 {:.output_png}
-![png](../images/features/ABCD_quick_stats_7_1.png)
+![png](/Users/gracer/Google%20Drive/geshearrer/gs_web/_build/images/features/ABCD_quick_stats_7_1.png)
 
 </div>
 </div>
@@ -223,7 +223,7 @@ plot(model1)
 <div class="output_subarea" markdown="1">
 
 {:.output_png}
-![png](../images/features/ABCD_quick_stats_7_2.png)
+![png](/Users/gracer/Google%20Drive/geshearrer/gs_web/_build/images/features/ABCD_quick_stats_7_2.png)
 
 </div>
 </div>
@@ -231,7 +231,7 @@ plot(model1)
 <div class="output_subarea" markdown="1">
 
 {:.output_png}
-![png](../images/features/ABCD_quick_stats_7_3.png)
+![png](/Users/gracer/Google%20Drive/geshearrer/gs_web/_build/images/features/ABCD_quick_stats_7_3.png)
 
 </div>
 </div>
@@ -254,7 +254,7 @@ q
 <div class="output_subarea" markdown="1">
 
 {:.output_png}
-![png](../images/features/ABCD_quick_stats_8_0.png)
+![png](/Users/gracer/Google%20Drive/geshearrer/gs_web/_build/images/features/ABCD_quick_stats_8_0.png)
 
 </div>
 </div>
@@ -315,7 +315,7 @@ plot(model1)
 <div class="output_subarea" markdown="1">
 
 {:.output_png}
-![png](../images/features/ABCD_quick_stats_10_0.png)
+![png](/Users/gracer/Google%20Drive/geshearrer/gs_web/_build/images/features/ABCD_quick_stats_10_0.png)
 
 </div>
 </div>
@@ -323,7 +323,7 @@ plot(model1)
 <div class="output_subarea" markdown="1">
 
 {:.output_png}
-![png](../images/features/ABCD_quick_stats_10_1.png)
+![png](/Users/gracer/Google%20Drive/geshearrer/gs_web/_build/images/features/ABCD_quick_stats_10_1.png)
 
 </div>
 </div>
@@ -331,7 +331,7 @@ plot(model1)
 <div class="output_subarea" markdown="1">
 
 {:.output_png}
-![png](../images/features/ABCD_quick_stats_10_2.png)
+![png](/Users/gracer/Google%20Drive/geshearrer/gs_web/_build/images/features/ABCD_quick_stats_10_2.png)
 
 </div>
 </div>
@@ -339,7 +339,7 @@ plot(model1)
 <div class="output_subarea" markdown="1">
 
 {:.output_png}
-![png](../images/features/ABCD_quick_stats_10_3.png)
+![png](/Users/gracer/Google%20Drive/geshearrer/gs_web/_build/images/features/ABCD_quick_stats_10_3.png)
 
 </div>
 </div>
@@ -359,7 +359,7 @@ qplot(data$mean, geom="histogram")
 <div class="output_subarea" markdown="1">
 
 {:.output_png}
-![png](../images/features/ABCD_quick_stats_11_0.png)
+![png](/Users/gracer/Google%20Drive/geshearrer/gs_web/_build/images/features/ABCD_quick_stats_11_0.png)
 
 </div>
 </div>
@@ -379,7 +379,7 @@ qplot(sqrt(data$mean), geom="histogram")
 <div class="output_subarea" markdown="1">
 
 {:.output_png}
-![png](../images/features/ABCD_quick_stats_12_0.png)
+![png](/Users/gracer/Google%20Drive/geshearrer/gs_web/_build/images/features/ABCD_quick_stats_12_0.png)
 
 </div>
 </div>
@@ -440,7 +440,7 @@ plot(model2)
 <div class="output_subarea" markdown="1">
 
 {:.output_png}
-![png](../images/features/ABCD_quick_stats_14_0.png)
+![png](/Users/gracer/Google%20Drive/geshearrer/gs_web/_build/images/features/ABCD_quick_stats_14_0.png)
 
 </div>
 </div>
@@ -448,7 +448,7 @@ plot(model2)
 <div class="output_subarea" markdown="1">
 
 {:.output_png}
-![png](../images/features/ABCD_quick_stats_14_1.png)
+![png](/Users/gracer/Google%20Drive/geshearrer/gs_web/_build/images/features/ABCD_quick_stats_14_1.png)
 
 </div>
 </div>
@@ -456,7 +456,7 @@ plot(model2)
 <div class="output_subarea" markdown="1">
 
 {:.output_png}
-![png](../images/features/ABCD_quick_stats_14_2.png)
+![png](/Users/gracer/Google%20Drive/geshearrer/gs_web/_build/images/features/ABCD_quick_stats_14_2.png)
 
 </div>
 </div>
@@ -464,7 +464,7 @@ plot(model2)
 <div class="output_subarea" markdown="1">
 
 {:.output_png}
-![png](../images/features/ABCD_quick_stats_14_3.png)
+![png](/Users/gracer/Google%20Drive/geshearrer/gs_web/_build/images/features/ABCD_quick_stats_14_3.png)
 
 </div>
 </div>
@@ -492,7 +492,7 @@ p
 <div class="output_subarea" markdown="1">
 
 {:.output_png}
-![png](../images/features/ABCD_quick_stats_16_0.png)
+![png](/Users/gracer/Google%20Drive/geshearrer/gs_web/_build/images/features/ABCD_quick_stats_16_0.png)
 
 </div>
 </div>
@@ -516,7 +516,7 @@ p
 <div class="output_subarea" markdown="1">
 
 {:.output_png}
-![png](../images/features/ABCD_quick_stats_17_0.png)
+![png](/Users/gracer/Google%20Drive/geshearrer/gs_web/_build/images/features/ABCD_quick_stats_17_0.png)
 
 </div>
 </div>
@@ -577,7 +577,7 @@ plot(model3)
 <div class="output_subarea" markdown="1">
 
 {:.output_png}
-![png](../images/features/ABCD_quick_stats_19_0.png)
+![png](/Users/gracer/Google%20Drive/geshearrer/gs_web/_build/images/features/ABCD_quick_stats_19_0.png)
 
 </div>
 </div>
@@ -585,7 +585,7 @@ plot(model3)
 <div class="output_subarea" markdown="1">
 
 {:.output_png}
-![png](../images/features/ABCD_quick_stats_19_1.png)
+![png](/Users/gracer/Google%20Drive/geshearrer/gs_web/_build/images/features/ABCD_quick_stats_19_1.png)
 
 </div>
 </div>
@@ -593,7 +593,7 @@ plot(model3)
 <div class="output_subarea" markdown="1">
 
 {:.output_png}
-![png](../images/features/ABCD_quick_stats_19_2.png)
+![png](/Users/gracer/Google%20Drive/geshearrer/gs_web/_build/images/features/ABCD_quick_stats_19_2.png)
 
 </div>
 </div>
@@ -601,7 +601,7 @@ plot(model3)
 <div class="output_subarea" markdown="1">
 
 {:.output_png}
-![png](../images/features/ABCD_quick_stats_19_3.png)
+![png](/Users/gracer/Google%20Drive/geshearrer/gs_web/_build/images/features/ABCD_quick_stats_19_3.png)
 
 </div>
 </div>
@@ -662,7 +662,7 @@ plot(model4)
 <div class="output_subarea" markdown="1">
 
 {:.output_png}
-![png](../images/features/ABCD_quick_stats_21_0.png)
+![png](/Users/gracer/Google%20Drive/geshearrer/gs_web/_build/images/features/ABCD_quick_stats_21_0.png)
 
 </div>
 </div>
@@ -670,7 +670,7 @@ plot(model4)
 <div class="output_subarea" markdown="1">
 
 {:.output_png}
-![png](../images/features/ABCD_quick_stats_21_1.png)
+![png](/Users/gracer/Google%20Drive/geshearrer/gs_web/_build/images/features/ABCD_quick_stats_21_1.png)
 
 </div>
 </div>
@@ -678,7 +678,7 @@ plot(model4)
 <div class="output_subarea" markdown="1">
 
 {:.output_png}
-![png](../images/features/ABCD_quick_stats_21_2.png)
+![png](/Users/gracer/Google%20Drive/geshearrer/gs_web/_build/images/features/ABCD_quick_stats_21_2.png)
 
 </div>
 </div>
@@ -686,7 +686,7 @@ plot(model4)
 <div class="output_subarea" markdown="1">
 
 {:.output_png}
-![png](../images/features/ABCD_quick_stats_21_3.png)
+![png](/Users/gracer/Google%20Drive/geshearrer/gs_web/_build/images/features/ABCD_quick_stats_21_3.png)
 
 </div>
 </div>
@@ -763,7 +763,7 @@ p
 <div class="output_subarea" markdown="1">
 
 {:.output_png}
-![png](../images/features/ABCD_quick_stats_26_0.png)
+![png](/Users/gracer/Google%20Drive/geshearrer/gs_web/_build/images/features/ABCD_quick_stats_26_0.png)
 
 </div>
 </div>
@@ -928,7 +928,7 @@ p
 <div class="output_subarea" markdown="1">
 
 {:.output_png}
-![png](../images/features/ABCD_quick_stats_31_0.png)
+![png](/Users/gracer/Google%20Drive/geshearrer/gs_web/_build/images/features/ABCD_quick_stats_31_0.png)
 
 </div>
 </div>
@@ -1008,7 +1008,7 @@ p
 <div class="output_subarea" markdown="1">
 
 {:.output_png}
-![png](../images/features/ABCD_quick_stats_33_0.png)
+![png](/Users/gracer/Google%20Drive/geshearrer/gs_web/_build/images/features/ABCD_quick_stats_33_0.png)
 
 </div>
 </div>

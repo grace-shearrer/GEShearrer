@@ -8,15 +8,15 @@
   <meta name="viewport" content="width=device-width,minimum-scale=1">
 
   <title>Home</title>
-  <meta name="description" content="Grace E Shearrer, PhDWelcome! This is a personal website for Grace Shearrer (me).">
+  <meta name="description" content="Books with Jupyter and Jekyll">
 
-  <link rel="canonical" href="http://0.0.0.0:4000//intro.html">
-  <link rel="alternate" type="application/rss+xml" title="Grace E. Shearrer, PhD" href="http://0.0.0.0:4000//feed.xml">
+  <link rel="canonical" href="https://jupyter.org/jupyter-book/intro.html">
+  <link rel="alternate" type="application/rss+xml" title="Jupyter Book" href="https://jupyter.org/jupyter-book/feed.xml">
 
-  <meta property="og:url"         content="http://0.0.0.0:4000//intro.html" />
+  <meta property="og:url"         content="https://jupyter.org/jupyter-book/intro.html" />
 <meta property="og:type"        content="article" />
 <meta property="og:title"       content="Home" />
-<meta property="og:description" content="Grace E Shearrer, PhDWelcome! This is a personal website for Grace Shearrer (me)." />
+<meta property="og:description" content="Books with Jupyter and Jekyll" />
 <meta property="og:image"       content="" />
 
 
@@ -25,39 +25,39 @@
   "@context": "http://schema.org",
   "@type": "NewsArticle",
   "mainEntityOfPage":
-    "http://0.0.0.0:4000//intro.html",
+    "https://jupyter.org/jupyter-book/intro.html",
   "headline":
     "Home",
   "datePublished":
-    "2019-08-26T14:16:58-05:00",
+    "2019-06-04T21:25:48-07:00",
   "dateModified":
-    "2019-08-26T14:16:58-05:00",
+    "2019-06-04T21:25:48-07:00",
   "description":
-    "Grace E Shearrer, PhDWelcome! This is a personal website for Grace Shearrer (me).",
+    "Books with Jupyter and Jekyll",
   "author": {
     "@type": "Person",
-    "name": "GE Shearrer"
+    "name": "The Jupyter Book Community"
   },
   "publisher": {
     "@type": "Organization",
     "name": "Data 100 at UC Berkeley",
     "logo": {
       "@type": "ImageObject",
-      "url": "http://0.0.0.0:4000/",
+      "url": "https://jupyter.org/jupyter-book",
       "width": 60,
       "height": 60
     }
   },
   "image": {
     "@type": "ImageObject",
-    "url": "http://0.0.0.0:4000/",
+    "url": "https://jupyter.org/jupyter-book",
     "height": 60,
     "width": 60
   }
 }
 
   </script>
-  <link rel="stylesheet" href="/assets/css/styles.css">
+  <link rel="stylesheet" href="/jupyter-book/assets/css/styles.css">
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css ">
   <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
   <link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
@@ -76,7 +76,7 @@
   <meta name="theme-color" content="#233947">
 
   <!-- Favicon -->
-  <link rel="shortcut icon" type="image/x-icon" href="/images/logo/favicon.ico">
+  <link rel="shortcut icon" type="image/x-icon" href="/jupyter-book/images/logo/favicon.ico">
 
   <!-- MathJax Config -->
   <!-- Allow inline math using $ and automatically break long math lines -->
@@ -120,11 +120,11 @@ initFunction = function(myfunc) {
 
   <!-- Define some javascript variables that will be useful in other javascript -->
   <script>
-    const site_basename = '/';
+    const site_basename = '/jupyter-book';
   </script>
 
   <!-- Add AnchorJS to let headers be linked -->
-  <script src="/assets/js/anchor.min.js"  type="text/javascript"></script>
+  <script src="/jupyter-book/assets/js/anchor.min.js"  type="text/javascript"></script>
   <script>
 
 initFunction(function () {
@@ -135,7 +135,7 @@ initFunction(function () {
 
   <!-- Include Turbolinks to make page loads fast -->
   <!-- https://github.com/turbolinks/turbolinks -->
-  <script src="/assets/js/turbolinks.js" async></script>
+  <script src="/jupyter-book/assets/js/turbolinks.js" async></script>
   <meta name="turbolinks-cache-control" content="no-cache">
 
   <!-- Load nbinteract for widgets -->
@@ -153,7 +153,7 @@ initFunction(function () {
 
 const thebelabCellButton = id =>
   `<a id="thebelab-cell-button-${id}" class="btn thebebtn o-tooltip--left" data-tooltip="Interactive Mode">
-    <img src="/assets/images/edit-button.svg" alt="Start interactive mode">
+    <img src="/jupyter-book/assets/images/edit-button.svg" alt="Start interactive mode">
   </a>`
 
 
@@ -178,7 +178,7 @@ initFunction(addThebelabButtonToCodeCells);
     {
       requestKernel: true,
       binderOptions: {
-        repo: 'YOUR-ORG/YOUR-REPO',
+        repo: 'jupyter/jupyter-book',
         ref: 'gh-pages',
       },
       codeMirrorConfig: {
@@ -275,7 +275,7 @@ initFunction(addThebelabButtonToCodeCells);
 
 
   <!-- Load the auto-generating TOC -->
-  <script src="/assets/js/tocbot.min.js"  type="text/javascript"></script>
+  <script src="/jupyter-book/assets/js/tocbot.min.js"  type="text/javascript"></script>
   <script>
 var initToc = function () {
   tocbot.init({
@@ -294,7 +294,7 @@ initFunction(initToc);
 </script>
 
   <!-- Google analytics -->
-  <script src="/assets/js/ga.js" async></script>
+  <script src="/jupyter-book/assets/js/ga.js" async></script>
 
   <!-- Clipboard copy button -->
   <script src="https://cdn.jsdelivr.net/npm/clipboard@2/dist/clipboard.min.js" async></script>
@@ -308,7 +308,7 @@ const codeCellId = index => `codecell${index}`
 
 const clipboardButton = id =>
   `<a id="copy-button-${id}" class="btn copybtn o-tooltip--left" data-tooltip="Copy" data-clipboard-target="#${id}">
-    <img src="/assets/images/copy-button.svg" alt="Copy to clipboard">
+    <img src="/jupyter-book/assets/images/copy-button.svg" alt="Copy to clipboard">
   </a>`
 
 // Clears selected text since ClipboardJS will select the text when copying
@@ -447,17 +447,158 @@ initFunction(addCopyButtonToCodeCells);
 </script>
 
   <!-- Load custom website scripts -->
-  <script src="/assets/js/scripts.js" async></script>
+  <script src="/jupyter-book/assets/js/scripts.js" async></script>
 
   <!-- Load custom user CSS and JS  -->
-  <script src="/assets/custom/custom.js" async></script>
-  <link rel="stylesheet" href="/assets/custom/custom.css">
+  <script src="/jupyter-book/assets/custom/custom.js" async></script>
+  <link rel="stylesheet" href="/jupyter-book/assets/custom/custom.css">
 
   <!-- Update interact links w/ REST param, is defined in includes so we can use templates -->
   
+<script>
+/**
+  * To auto-embed hub URLs in interact links if given in a RESTful fashion
+ */
+
+function getJsonFromUrl(url) {
+  var query = url.split('?');
+  if (query.length < 2) {
+    // No queries so just return false
+    return false;
+  }
+  query = query[1];
+  // Collect REST params into a dictionary
+  var result = {};
+  query.split("&").forEach(function(part) {
+    var item = part.split("=");
+    result[item[0]] = decodeURIComponent(item[1]);
+  });
+  return result;
+}
+    
+function dict2param(dict) {
+    params = Object.keys(dict).map(function(k) {
+        return encodeURIComponent(k) + '=' + encodeURIComponent(dict[k])
+    });
+    return params.join('&')
+}
+
+// Parse a Binder URL, converting it to the string needed for JupyterHub
+function binder2Jupyterhub(url) {
+  newUrl = {};
+  parts = url.split('v2/gh/')[1];
+  // Grab the base repo information
+  repoinfo = parts.split('?')[0];
+  var [org, repo, ref] = repoinfo.split('/');
+  newUrl['repo'] = ['https://github.com', org, repo].join('/');
+  newUrl['branch'] = ref
+  // Grab extra parameters passed
+  params = getJsonFromUrl(url);
+  if (params['filepath'] !== undefined) {
+    newUrl['subPath'] = params['filepath']
+  }
+  return dict2param(newUrl);
+}
+
+// Filter out potentially unsafe characters to prevent xss
+function safeUrl(url)
+{
+   return String(encodeURIComponent(url))
+            .replace(/&/g, '&amp;')
+            .replace(/"/g, '&quot;')
+            .replace(/'/g, '&#39;')
+            .replace(/</g, '&lt;')
+            .replace(/>/g, '&gt;');
+}
+
+function addParamToInternalLinks(hub) {
+  var links = document.querySelectorAll("a").forEach(function(link) {
+    var href = link.href;
+    // If the link is an internal link...
+    if (href.search("https://jupyter.org") !== -1 || href.startsWith('/') || href.search("127.0.0.1:") !== -1) {
+      // Assume we're an internal link, add the hub param to it
+      var params = getJsonFromUrl(href);
+      if (params !== false) {
+        // We have REST params, so append a new one
+        params['jupyterhub'] = hub;
+      } else {
+        // Create the REST params
+        params = {'jupyterhub': hub};
+      }
+      // Update the link
+      var newHref = href.split('?')[0] + '?' + dict2param(params);
+      link.setAttribute('href', decodeURIComponent(newHref));
+    }
+  });
+  return false;
+}
+
+
+// Update interact links
+function updateInteractLink() {
+    // hack to make this work since it expects a ? in the URL
+    rest = getJsonFromUrl("?" + location.search.substr(1));
+    jupyterHubUrl = rest['jupyterhub'];
+    var hubType = null;
+    var hubUrl = null;
+    if (jupyterHubUrl !== undefined) {
+      hubType = 'jupyterhub';
+      hubUrl = jupyterHubUrl;
+    }
+
+    if (hubType !== null) {
+      // Sanitize the hubUrl
+      hubUrl = safeUrl(hubUrl);
+
+      // Add HTTP text if omitted
+      if (hubUrl.indexOf('http') < 0) {hubUrl = 'http://' + hubUrl;}
+      var interactButtons = document.querySelectorAll("button.interact-button")
+      var lastButton = interactButtons[interactButtons.length-1];
+      var link = lastButton.parentElement;
+
+      // If we've already run this, skip the link updating
+      if (link.nextElementSibling !== null) {
+        return;
+      }
+
+      // Update the link and add context div
+      var href = link.getAttribute('href');
+      if (lastButton.id === 'interact-button-binder') {
+        // If binder links exist, we need to re-work them for jupyterhub
+        if (hubUrl.indexOf('http%3A%2F%2Flocalhost') > -1) {
+          // If localhost, assume we're working from a local Jupyter server and remove `/hub`
+          first = [hubUrl, 'git-sync'].join('/')
+        } else {
+          first = [hubUrl, 'hub', 'user-redirect', 'git-sync'].join('/')
+        }
+        href = first + '?' + binder2Jupyterhub(href);
+      } else {
+        // If interact button isn't binderhub, assume it's jupyterhub
+        // If JupyterHub links, we only need to replace the hub url
+        href = href.replace("", hubUrl);
+        if (hubUrl.indexOf('http%3A%2F%2Flocalhost') > -1) {
+          // Assume we're working from a local Jupyter server and remove `/hub`
+          href = href.replace("/hub/user-redirect", "");
+        }
+      }
+      link.setAttribute('href', decodeURIComponent(href));
+
+      // Add text after interact link saying where we're launching
+      hubUrlNoHttp = decodeURIComponent(hubUrl).replace('http://', '').replace('https://', '');
+      link.insertAdjacentHTML('afterend', '<div class="interact-context">on ' + hubUrlNoHttp + '</div>');
+
+      // Update internal links so we retain the hub url
+      addParamToInternalLinks(hubUrl);
+    }
+}
+
+runWhenDOMLoaded(updateInteractLink)
+document.addEventListener('turbolinks:load', updateInteractLink)
+</script>
+
 
   <!-- Lunr search code - will only be executed on the /search page -->
-  <script src="/assets/js/lunr/lunr.min.js" type="text/javascript"></script>
+  <script src="/jupyter-book/assets/js/lunr/lunr.min.js" type="text/javascript"></script>
   <script>var initQuery = function() {
   // See if we have a search box
   var searchInput = document.querySelector('input#lunr_search');
@@ -553,8 +694,8 @@ initFunction(initQuery);
 
 
 <nav id="js-sidebar" class="c-textbook__sidebar">
-  <a href="https://jupyter.org/jupyter-book/"><img src="/images/logo/logo_nice.png" class="textbook_logo" id="sidebar-logo" data-turbolinks-permanent/></a>
-  <h2 class="c-sidebar__title">Grace E. Shearrer, PhD</h2>
+  <a href="https://jupyter.org/jupyter-book/intro.html"><img src="/jupyter-book/images/logo/logo.png" class="textbook_logo" id="sidebar-logo" data-turbolinks-permanent/></a>
+  <h2 class="c-sidebar__title">Jupyter Book</h2>
   <ul class="c-sidebar__chapters">
     
       
@@ -567,7 +708,7 @@ initFunction(initQuery);
       
       <li class="c-sidebar__chapter">
         <a class="c-sidebar__entry c-sidebar__entry--active"
-          href="/intro.html"
+          href="/jupyter-book/intro.html"
         >
           
           Home
@@ -580,6 +721,10 @@ initFunction(initQuery);
     
       
       
+        <li class="c-sidebar__chapter"><a class="c-sidebar__entry" href="/jupyter-book/search.html">Search</a></li>
+        
+      
+      
 
       
       
@@ -588,7 +733,277 @@ initFunction(initQuery);
       
       <li class="c-sidebar__chapter">
         <a class="c-sidebar__entry "
-          href="https://github.com/grace-shearrer"
+          href="/jupyter-book/guide/01_overview.html"
+        >
+          
+          Getting started
+        </a>
+
+        
+
+          
+          
+          
+          
+
+          
+
+          <ul class="c-sidebar__sections ">
+            
+              
+              
+
+              <li class="c-sidebar__section">
+                <a class="c-sidebar__entry "
+                  href="/jupyter-book/guide/02_create.html"
+                >
+                  
+                  Create your book
+                </a>
+
+                
+                
+
+              </li>
+              
+            
+              
+              
+
+              <li class="c-sidebar__section">
+                <a class="c-sidebar__entry "
+                  href="/jupyter-book/guide/03_build.html"
+                >
+                  
+                  Build and publish your book
+                </a>
+
+                
+                
+
+              </li>
+              
+            
+              
+              
+
+              <li class="c-sidebar__section">
+                <a class="c-sidebar__entry "
+                  href="/jupyter-book/guide/04_faq.html"
+                >
+                  
+                  FAQ
+                </a>
+
+                
+                
+
+              </li>
+              
+            
+              
+              
+
+              <li class="c-sidebar__section">
+                <a class="c-sidebar__entry "
+                  href="/jupyter-book/guide/05_advanced.html"
+                >
+                  
+                  How-to and advanced topics
+                </a>
+
+                
+                
+
+              </li>
+              
+            
+          </ul>
+        
+      </li>
+
+      
+    
+      
+      
+
+      
+      
+
+      
+      
+      <li class="c-sidebar__chapter">
+        <a class="c-sidebar__entry "
+          href="/jupyter-book/features/features.html"
+        >
+          
+          Features and customization
+        </a>
+
+        
+
+          
+          
+          
+          
+
+          
+
+          <ul class="c-sidebar__sections ">
+            
+              
+              
+
+              <li class="c-sidebar__section">
+                <a class="c-sidebar__entry "
+                  href="/jupyter-book/features/markdown.html"
+                >
+                  
+                  Markdown files
+                </a>
+
+                
+                
+
+              </li>
+              
+            
+              
+              
+
+              <li class="c-sidebar__section">
+                <a class="c-sidebar__entry "
+                  href="/jupyter-book/features/notebooks.html"
+                >
+                  
+                  Jupyter notebooks
+                </a>
+
+                
+                
+
+              </li>
+              
+            
+              
+              
+
+              <li class="c-sidebar__section">
+                <a class="c-sidebar__entry "
+                  href="/jupyter-book/features/hiding.html"
+                >
+                  
+                  Hiding code blocks or entire cells
+                </a>
+
+                
+                
+
+              </li>
+              
+            
+              
+              
+
+              <li class="c-sidebar__section">
+                <a class="c-sidebar__entry "
+                  href="/jupyter-book/features/interact.html"
+                >
+                  
+                  Connecting content with JupyterHub and Binder
+                </a>
+
+                
+                
+
+              </li>
+              
+            
+              
+              
+
+              <li class="c-sidebar__section">
+                <a class="c-sidebar__entry "
+                  href="/jupyter-book/features/interactive_cells.html"
+                >
+                  
+                  Adding interactivity to your book pages
+                </a>
+
+                
+                
+
+              </li>
+              
+            
+              
+              
+
+              <li class="c-sidebar__section">
+                <a class="c-sidebar__entry "
+                  href="/jupyter-book/features/citations.html"
+                >
+                  
+                  Citations and bibliographies
+                </a>
+
+                
+                
+
+              </li>
+              
+            
+              
+              
+
+              <li class="c-sidebar__section">
+                <a class="c-sidebar__entry "
+                  href="/jupyter-book/features/search.html"
+                >
+                  
+                  Searching your book
+                </a>
+
+                
+                
+
+              </li>
+              
+            
+              
+              
+
+              <li class="c-sidebar__section">
+                <a class="c-sidebar__entry "
+                  href="/jupyter-book/features/limits.html"
+                >
+                  
+                  Feature Limits
+                </a>
+
+                
+                
+
+              </li>
+              
+            
+          </ul>
+        
+      </li>
+
+      
+    
+      
+      
+
+      
+      
+
+      
+      
+      <li class="c-sidebar__chapter">
+        <a class="c-sidebar__entry "
+          href="https://github.com/jupyter/jupyter-book"
         >
           
           GitHub repository
@@ -601,15 +1016,11 @@ initFunction(initQuery);
     
       
       
-        <li class="c-sidebar__chapter"><a class="c-sidebar__entry" href="/search.html">Search</a></li>
-        
-      
-      
         <li class="c-sidebar__divider"></li>
         
       
       
-        <li><h2 class="c-sidebar__title">Details</li>
+        <li><h2 class="c-sidebar__title">Demo textbook</li>
         
       
       
@@ -621,10 +1032,12 @@ initFunction(initQuery);
       
       <li class="c-sidebar__chapter">
         <a class="c-sidebar__entry "
-          href="/features/features.html"
+          href="/jupyter-book/01/what-is-data-science.html"
         >
           
-          Research history
+            1.
+          
+          Data Science
         </a>
 
         
@@ -636,17 +1049,19 @@ initFunction(initQuery);
 
           
 
-          <ul class="c-sidebar__sections ">
+          <ul class="c-sidebar__sections u-hidden-visually">
             
               
               
 
               <li class="c-sidebar__section">
                 <a class="c-sidebar__entry "
-                  href="/features/research.html"
+                  href="/jupyter-book/01/1/intro.html"
                 >
                   
-                  Post Doctoral
+                    1.1
+                  
+                  Introduction
                 </a>
 
                 
@@ -660,10 +1075,12 @@ initFunction(initQuery);
 
               <li class="c-sidebar__section">
                 <a class="c-sidebar__entry "
-                  href="/features/ABCD_quick_stats.html"
+                  href="/jupyter-book/01/2/why-data-science.html"
                 >
                   
-                  Doctoral
+                    1.2
+                  
+                  Why Data Science?
                 </a>
 
                 
@@ -677,10 +1094,170 @@ initFunction(initQuery);
 
               <li class="c-sidebar__section">
                 <a class="c-sidebar__entry "
-                  href="/features/ABCD_quick_stats.html"
+                  href="/jupyter-book/01/3/Plotting_the_Classics.html"
                 >
                   
-                  Pre-doctoral
+                    1.3
+                  
+                  Plotting the Classics
+                </a>
+
+                
+                
+                  
+                  
+
+                  <li class="c-sidebar__subsection">
+                    <a class="c-sidebar__entry "
+                      href="/jupyter-book/01/3/subsection/subsections.html"
+                    >
+                      
+                        1.3.1
+                        
+                      
+                      Subsection Demo 1
+                    </a>
+                
+                  
+                  
+
+                  <li class="c-sidebar__subsection">
+                    <a class="c-sidebar__entry "
+                      href="/jupyter-book/01/3/subsection/subsectiontwo.html"
+                    >
+                      
+                        1.3.2
+                        
+                      
+                      Subsection Demo 2
+                    </a>
+                
+
+              </li>
+              
+            
+          </ul>
+        
+      </li>
+
+      
+    
+      
+      
+
+      
+      
+
+      
+      
+      <li class="c-sidebar__chapter">
+        <a class="c-sidebar__entry "
+          href="/jupyter-book/02/causality-and-experiments.html"
+        >
+          
+            2.
+          
+          Causality and Experiments
+        </a>
+
+        
+
+          
+          
+          
+          
+
+          
+
+          <ul class="c-sidebar__sections u-hidden-visually">
+            
+              
+              
+
+              <li class="c-sidebar__section">
+                <a class="c-sidebar__entry "
+                  href="/jupyter-book/02/1/observation-and-visualization-john-snow-and-the-broad-street-pump.html"
+                >
+                  
+                    2.1
+                  
+                  John Snow and the Broad Street Pump
+                </a>
+
+                
+                
+
+              </li>
+              
+            
+              
+              
+
+              <li class="c-sidebar__section">
+                <a class="c-sidebar__entry "
+                  href="/jupyter-book/02/2/snow-s-grand-experiment.html"
+                >
+                  
+                    2.2
+                  
+                  Snow’s “Grand Experiment”
+                </a>
+
+                
+                
+
+              </li>
+              
+            
+              
+              
+
+              <li class="c-sidebar__section">
+                <a class="c-sidebar__entry "
+                  href="/jupyter-book/02/3/establishing-causality.html"
+                >
+                  
+                    2.3
+                  
+                  Establishing Causality
+                </a>
+
+                
+                
+
+              </li>
+              
+            
+              
+              
+
+              <li class="c-sidebar__section">
+                <a class="c-sidebar__entry "
+                  href="/jupyter-book/02/4/randomization.html"
+                >
+                  
+                    2.4
+                  
+                  Randomization
+                </a>
+
+                
+                
+
+              </li>
+              
+            
+              
+              
+
+              <li class="c-sidebar__section">
+                <a class="c-sidebar__entry "
+                  href="/jupyter-book/02/5/endnote.html"
+                >
+                  
+                    2.5
+                  
+                  Endnote
                 </a>
 
                 
@@ -705,10 +1282,12 @@ initFunction(initQuery);
       
       <li class="c-sidebar__chapter">
         <a class="c-sidebar__entry "
-          href="/features/features.html"
+          href="/jupyter-book/03/programming-in-python.html"
         >
           
-          Mentoring
+            3.
+          
+          Programming in Python
         </a>
 
         
@@ -720,17 +1299,19 @@ initFunction(initQuery);
 
           
 
-          <ul class="c-sidebar__sections ">
+          <ul class="c-sidebar__sections u-hidden-visually">
             
               
               
 
               <li class="c-sidebar__section">
                 <a class="c-sidebar__entry "
-                  href="/features/research.html"
+                  href="/jupyter-book/03/1/Expressions.html"
                 >
                   
-                  Post Doctoral
+                    3.1
+                  
+                  Expressions
                 </a>
 
                 
@@ -744,10 +1325,12 @@ initFunction(initQuery);
 
               <li class="c-sidebar__section">
                 <a class="c-sidebar__entry "
-                  href="/features/ABCD_quick_stats.html"
+                  href="/jupyter-book/03/2/Names.html"
                 >
                   
-                  Doctoral
+                    3.2
+                  
+                  Names
                 </a>
 
                 
@@ -761,10 +1344,31 @@ initFunction(initQuery);
 
               <li class="c-sidebar__section">
                 <a class="c-sidebar__entry "
-                  href="/features/ABCD_quick_stats.html"
+                  href="/jupyter-book/03/3/Calls.html"
                 >
                   
-                  Pre-doctoral
+                    3.3
+                  
+                  Call Expressions
+                </a>
+
+                
+                
+
+              </li>
+              
+            
+              
+              
+
+              <li class="c-sidebar__section">
+                <a class="c-sidebar__entry "
+                  href="/jupyter-book/03/4/Introduction_to_Tables.html"
+                >
+                  
+                    3.4
+                  
+                  Introduction to Tables
                 </a>
 
                 
@@ -789,10 +1393,12 @@ initFunction(initQuery);
       
       <li class="c-sidebar__chapter">
         <a class="c-sidebar__entry "
-          href="/features/features.html"
+          href="/jupyter-book/04/Types.html"
         >
           
-          Teaching
+            4.
+          
+          Data Types
         </a>
 
         
@@ -804,17 +1410,19 @@ initFunction(initQuery);
 
           
 
-          <ul class="c-sidebar__sections ">
+          <ul class="c-sidebar__sections u-hidden-visually">
             
               
               
 
               <li class="c-sidebar__section">
                 <a class="c-sidebar__entry "
-                  href="/features/research.html"
+                  href="/jupyter-book/04/1/Numbers.html"
                 >
                   
-                  Post Doctoral
+                    4.1
+                  
+                  Numbers
                 </a>
 
                 
@@ -828,10 +1436,12 @@ initFunction(initQuery);
 
               <li class="c-sidebar__section">
                 <a class="c-sidebar__entry "
-                  href="/features/ABCD_quick_stats.html"
+                  href="/jupyter-book/04/2/Strings.html"
                 >
                   
-                  Doctoral
+                    4.2
+                  
+                  Strings
                 </a>
 
                 
@@ -845,94 +1455,12 @@ initFunction(initQuery);
 
               <li class="c-sidebar__section">
                 <a class="c-sidebar__entry "
-                  href="/features/ABCD_quick_stats.html"
+                  href="/jupyter-book/04/3/Comparison.html"
                 >
                   
-                  Pre-doctoral
-                </a>
-
-                
-                
-
-              </li>
-              
-            
-          </ul>
-        
-      </li>
-
-      
-    
-      
-      
-
-      
-      
-
-      
-      
-      <li class="c-sidebar__chapter">
-        <a class="c-sidebar__entry "
-          href="/features/features.html"
-        >
-          
-          Service
-        </a>
-
-        
-
-          
-          
-          
-          
-
-          
-
-          <ul class="c-sidebar__sections ">
-            
-              
-              
-
-              <li class="c-sidebar__section">
-                <a class="c-sidebar__entry "
-                  href="/features/research.html"
-                >
+                    4.3
                   
-                  Post Doctoral
-                </a>
-
-                
-                
-
-              </li>
-              
-            
-              
-              
-
-              <li class="c-sidebar__section">
-                <a class="c-sidebar__entry "
-                  href="/features/ABCD_quick_stats.html"
-                >
-                  
-                  Doctoral
-                </a>
-
-                
-                
-
-              </li>
-              
-            
-              
-              
-
-              <li class="c-sidebar__section">
-                <a class="c-sidebar__entry "
-                  href="/features/ABCD_quick_stats.html"
-                >
-                  
-                  Pre-doctoral
+                  Comparisons
                 </a>
 
                 
@@ -977,55 +1505,80 @@ initFunction(initQuery);
             
 
             <div class="c-textbook__content">
-              <h1 id="grace-e-shearrer-phd">Grace E Shearrer, PhD</h1>
-<p>Welcome! This is a personal website for Grace Shearrer (me).</p>
+              <h1 id="books-with-jupyter-and-jekyll">Books with Jupyter and Jekyll</h1>
 
-<p><a href="https://scholar.google.com/citations?user=34Ges_MAAAAJ&amp;hl=en">GoogleScholar Profile</a></p>
+<p><img src="https://circleci.com/gh/jupyter/jupyter-book.svg?style=svg" class="left" /></p>
 
-<p>Email: grace.shearrer@gmail.com</p>
+<p>Jupyter Books lets you build an online book using a collection of Jupyter Notebooks
+and Markdown files. Its output is similar to the excellent <a href="https://bookdown.org/yihui/bookdown/">Bookdown</a> tool,
+and adds extra functionality for people running a Jupyter stack.</p>
 
-<h2 id="who">Who?</h2>
-<p>As mentioned above my name is Grace Shearrer. I am a research assistant professor at the University of North Carolina Chapel Hill.</p>
+<p>For an example of a book built with Jupyter Books, see the <a href="https://www.textbook.ds100.org/">textbook for Data 100</a> at UC Berkeley (or this website!)</p>
 
-<h2 id="what">What?</h2>
-<p>A research assistant professor. Essentially a professor that doesn’t teach a lot, but also isn’t tenure track. This is a great place for me now, as I am able to apply for my own grants and work on lots of projects. However, my <strong>overall goal is to transition to tenure track</strong>.</p>
+<p>Here are a few features of Jupyter Books</p>
 
-<h2 id="where">Where?</h2>
 <ul>
-  <li>Currently I work in the <a href="https://sph.unc.edu/nutr/unc-nutrition/">Department of Nutrition</a> at the University of North Carolina Chapel Hill. Located in…. Chapel Hill, North Carolina.</li>
-  <li>Previously I got my PhD in Nutritional Science at the University of Texas at Austin</li>
-  <li>Even further in the past, I got my BSFC (Bachelor of Family and Consumer Science) at the University of Wyoming in Laramie, WY.</li>
-  <li>I was born and raised in Denver, Colorado</li>
+  <li>A Command-Line Interface (CLI) to quickly create, build, and upgrade books.</li>
+  <li>Write book content in markdown and Jupyter Notebooks</li>
+  <li>Convert these into Jekyll pages that can be hosted for free on GitHub</li>
+  <li>Pages can have <a href="https://mybinder.org">Binder</a>, JupyterHub, or Theblab links
+automatically added for interactivity.</li>
+  <li>The website itself is based on Jekyll and is highly extensible.</li>
+  <li>There are lots of nifty HTML features under-the-hood, such as
+Turbolinks fast-navigation and click-to-copy in code cells.</li>
 </ul>
 
-<h2 id="when">When?</h2>
-<p>I have been a research assistant professor for a little under a year. Before that I worked as a post doc for 3 years with Dr. Kyle Burger in  the Neuropsychology of Ingestive Behavior Laboratory <a href="https://niblunc.org/">NIBL</a> . Before that I completed my PhD with Dr. Jaimie Davis in 2016, and finished my BSFC in 2012.</p>
+<p>Check out other features in the <a href="features/features">Features section</a>.</p>
 
-<p>My goal is to obtain tenure before 40. I have known I wanted to be tenure track professor since 2010. While at the University of Wyoming, I was working as an O Chem TA under Drs. Robert Corcoran and Bill Hoberg and completing undergrad research with Dr. Donal Skinner. At the time I was a pre-med student, however my experiences teaching O Chem and doing research made me realize my true passion was teaching and research! After that I turned my attention to doctoral programs rather than medical school.</p>
+<h2 id="getting-started">Getting started</h2>
 
-<h2 id="why">Why?</h2>
-<p>As stated above, my extracurriculars in my undergraduate studies really focused my attention on becoming a professor out of a love of both teaching and research. As I have developed as a scientist I realize that there are a lot of reasons why I am a scientist, and why I want to be a tenure track professor:</p>
+<p>To get started, you may be interested in the following links.
+Here are a few links of interest:</p>
+
 <ul>
-  <li>Insatiable Curiosity</li>
-  <li>Desire to Problem Solve</li>
-  <li>Need to Work in a Team</li>
-  <li>Increase Representation
-    <h3 id="curiosity">Curiosity</h3>
-    <p>When I was in high school, I thought I was going to be a journalist. To teen Grace, journalism gave my natural curiosity an outlet in the world didactic learning in high school. In doing undergraduate research, I realized I could directly test my curiosity rather than just report on it. To this day, the desire to learn and understand the world around and in me motivates my research.</p>
-    <h3 id="problem-solving">Problem Solving</h3>
-    <p>During my graduate work, a professor handed me a Python script for my dissertation work. Up to this point I was under the impression that this had something to do with snakes. I was terrified to learn that it wasn’t a theatrical production for a snake based musical, but rather a computer program I was supposed to edit and make work. Little did I know that this would actually become an integral part of my research. Programming analyses, paradigms, websites, etc, presented me with a puzzle. After enough research, learning, and asking questions I was able to solve my graduate dissertation script. Today, I believe firm knowledge in basic computer programming is essential for scientists and a great way to flex problem solving muscles.</p>
-    <h3 id="teamwork">Teamwork</h3>
-    <p>I have played soccer longer than I have been able to read. So, understandably, teamwork has been a big part of my life. Science is a lot like soccer. You can’t have a team of goal scorers or a team of goalies. The best teams have deep rosters and everyone working towards a common goal. Science is similar. Laboratories need a variety of people working towards a similar goal.</p>
-    <h3 id="representation">Representation</h3>
-    <p>This is pretty straight forward. Right now most positions in STEM are held by people of a very similar background. However, as stated above, the best teams/labs have a variety of skills and these skills are developed through different experiences. An unyielding goal of lab is to be and perform Open Science. This means not only open methods, open, open data, and preregistration, but also:</p>
+  <li>
+    <p><strong><a href="features/features">Jupyter Book features</a></strong> is a quick demo and overview
+of Jupyter Books.</p>
   </li>
-  <li>Open to all people</li>
-  <li>Open to all ability levels</li>
-  <li>Open regardless of Socio-Economic-Status
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyOTEzNTkwMiwtNTQwNjA2MDM2XX0=
---></li>
+  <li>
+    <p><strong><a href="guide/01_overview">The Jupyter Book Guide</a></strong>
+will step you through the process of configuring and building your own Jupyter Book.</p>
+  </li>
 </ul>
+
+<h3 id="installation">Installation</h3>
+
+<p>To install the Jupyter Book command-line interface (CLI), use <code class="highlighter-rouge">pip</code>!</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>pip install jupyter-book
+</code></pre></div></div>
+
+<h3 id="create-a-new-book">Create a new book</h3>
+
+<p>Once you’ve installed the CLI, create a new book using the demo book content
+(the website that you’re viewing now) with this command:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>jupyter-book create mybookname --demo
+</code></pre></div></div>
+
+<h3 id="build-the-markdown-for-your-book">Build the markdown for your book</h3>
+
+<p>Now, build the markdown that Jekyll will use for your book. Run this command:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>jupyter-book build mybookname
+</code></pre></div></div>
+
+<h3 id="thats-it">That’s it!</h3>
+
+<p>You can now either push your book to GitHub and serve the demo with gh-pages,
+or modify the book with your own content.</p>
+
+<h2 id="acknowledgements">Acknowledgements</h2>
+
+<p>Jupyter Books was originally created by <a href="http://www.samlau.me/">Sam Lau</a> and <a href="https://predictablynoisy.com">Chris Holdgraf</a>
+with support of the <strong>UC Berkeley Data Science Education Program and the
+<a href="https://bids.berkeley.edu/">Berkeley Institute for Data Science</a></strong>.</p>
+
 
               <nav class="c-page__nav">
   
@@ -1037,8 +1590,8 @@ eyJoaXN0b3J5IjpbMTMyOTEzNTkwMiwtNTQwNjA2MDM2XX0=
 
   
     
-    <a id="js-page__nav__next" class="c-page__nav__next" href="https://github.com/grace-shearrer">
-      GitHub repository <span class="u-margin-right-tiny"></span> 〉
+    <a id="js-page__nav__next" class="c-page__nav__next" href="/jupyter-book/guide/01_overview">
+      Getting started <span class="u-margin-right-tiny"></span> 〉
     </a>
   
 </nav>
